@@ -1,0 +1,82 @@
+comb,max_column,closest_column,percentage_difference
+"g=1.5, s=0.5",pooling,small separation,-0.5266385268137646
+"g=1.5, s=0.6",pooling,small separation,-0.5836161734085188
+"g=1.5, s=0.8",pooling,small separation,-0.6019213030112907
+"g=1.5, s=1",pooling,small separation,-0.5519772469345939
+"g=1.5, s=1.5",pooling,small separation,-0.3058793129596667
+"g=1.5, s=2",fully separated,big separation,-4.285626872005436
+"g=1.5, s=25",fully separated,pooling,-10.403912536845827
+"g=1.5, s=4",fully separated,big separation,-21.76218305642785
+"g=1.5, s=8",fully separated,pooling,-7.657468484891504
+"g=1.6, s=0.5",pooling,small separation,-0.5421770024304172
+"g=1.6, s=0.6",pooling,small separation,-0.5900779146886044
+"g=1.6, s=0.8",pooling,small separation,-0.5795694343710993
+"g=1.6, s=1",pooling,small separation,-0.4835750658673492
+"g=1.6, s=1.5",fully separated,pooling,-1.4681914132809541
+"g=1.6, s=2",fully separated,big separation,-7.595901158131698
+"g=1.6, s=25",fully separated,big separation,-82.81215261502703
+"g=1.6, s=4",fully separated,big separation,-74.33610084802534
+"g=1.6, s=8",fully separated,big separation,-79.48594441629795
+"g=1.8, s=0.5",pooling,small separation,-0.5619524848481314
+"g=1.8, s=0.6",pooling,small separation,-0.5965176662248459
+"g=1.8, s=0.8",pooling,small separation,-0.5463139028800112
+"g=1.8, s=1",pooling,small separation,-0.38696835018235176
+"g=1.8, s=1.5",fully separated,big separation,-4.121427534201842
+"g=1.8, s=2",fully separated,big separation,-12.379765965529764
+"g=1.8, s=25",fully separated,big separation,-72.43347342760536
+"g=1.8, s=4",fully separated,big separation,-40.62530342072896
+"g=1.8, s=8",fully separated,big separation,-63.48572632802439
+"g=10, s=0.5",pooling,small separation,-0.588463740299923
+"g=10, s=0.6",pooling,small separation,-0.5719236052711932
+"g=10, s=0.8",pooling,small separation,-0.3972359996019273
+"g=10, s=1",pooling,small separation,-0.039085310236310025
+"g=10, s=1.5",fully separated,big separation,-13.892682893918963
+"g=10, s=2",fully separated,big separation,-31.765755937995444
+"g=10, s=25",fully separated,big separation,-99.92117845711515
+"g=10, s=4",fully separated,big separation,-77.92459267742477
+"g=10, s=8",fully separated,big separation,-96.20143254763484
+"g=2, s=0.5",pooling,small separation,-0.5733155832535377
+"g=2, s=0.6",pooling,small separation,-0.5986043448961385
+"g=2, s=0.8",pooling,small separation,-0.5225159593240051
+"g=2, s=1",pooling,small separation,-0.32180105053822483
+"g=2, s=1.5",fully separated,big separation,-5.895640948752441
+"g=2, s=2",fully separated,big separation,-15.691324366778387
+"g=2, s=25",fully separated,big separation,-81.90394516195246
+"g=2, s=4",fully separated,big separation,-46.83368034845067
+"g=2, s=8",fully separated,big separation,-69.61839462295957
+"g=2.5, s=0.5",pooling,small separation,-0.5861333388529146
+"g=2.5, s=0.6",pooling,small separation,-0.5973296832118219
+"g=2.5, s=0.8",pooling,small separation,-0.4845470490531938
+"g=2.5, s=1",pooling,small separation,-0.22504453649389086
+"g=2.5, s=1.5",fully separated,big separation,-8.571060636682803
+"g=2.5, s=2",fully separated,big separation,-20.781968726404088
+"g=2.5, s=25",fully separated,big separation,-90.51310558170017
+"g=2.5, s=4",fully separated,big separation,-56.48792666958927
+"g=2.5, s=8",fully separated,big separation,-78.849352493847
+"g=25, s=0.5",pooling,small separation,-0.5850954151271501
+"g=25, s=0.6",pooling,small separation,-0.5648847416109891
+"g=25, s=0.8",pooling,small separation,-0.38335871146907446
+"g=25, s=1",pooling,small separation,-0.01461545700775683
+"g=25, s=1.5",fully separated,big separation,-14.622998592435088
+"g=25, s=2",fully separated,big separation,-33.47884235493587
+"g=25, s=25",fully separated,big separation,-99.99715673656034
+"g=25, s=4",fully separated,big separation,-81.39530788586958
+"g=25, s=8",fully separated,big separation,-97.99817383476929
+"g=3, s=0.5",pooling,small separation,-0.5904588935286345
+"g=3, s=0.6",pooling,small separation,-0.5938337696462673
+"g=3, s=0.8",pooling,small separation,-0.4620899848497437
+"g=3, s=1",pooling,small separation,-0.17218513725990708
+"g=3, s=1.5",fully separated,big separation,-10.055593520849895
+"g=3, s=2",fully separated,big separation,-23.687732584320724
+"g=3, s=25",fully separated,big separation,-94.53170345241642
+"g=3, s=4",fully separated,big separation,-62.05443687253525
+"g=3, s=8",fully separated,big separation,-83.94213882219972
+"g=5, s=0.5",pooling,small separation,-0.5918923052997862
+"g=5, s=0.6",pooling,small separation,-0.5826610708405227
+"g=5, s=0.8",pooling,small separation,-0.4227179476913882
+"g=5, s=1",pooling,small separation,-0.08778999211168755
+"g=5, s=1.5",fully separated,big separation,-12.467585800680263
+"g=5, s=2",fully separated,big separation,-28.62820134808239
+"g=5, s=25",fully separated,big separation,-98.98383984556394
+"g=5, s=4",fully separated,big separation,-71.67006832500755
+"g=5, s=8",fully separated,big separation,-91.96350333136739
